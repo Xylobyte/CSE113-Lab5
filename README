@@ -1,0 +1,25 @@
+Donovan Griego
+10-13-2020
+Lab 5
+
+Purpose: To practice utilizing structures in calculations and data storage.
+
+Conclusions:
+
+a) What I learned from this lab:
+I learned how to use structures in ways that simplify storing multiple values 
+together. This is especially helpful when dealing with values that are related 
+and need to be used at the same time.
+
+b) How did the pair programming help/hinder the lab:
+This helped me a lot when it came to doing calculations with the values within 
+the structures. I got to practice calculating vectors in the prelab which helped 
+when I needed to find the distance between two points in the lab.
+
+c) Issues and how I fixed them (bug report):
+I ran into some issues with getting the abs() function but fixed it by including 
+the stdlib.h library. I had forgotten that it isn't in the math.h library.
+
+d) Improvements that can be made:
+In the future, I think I can imrove the menu system in the lab5_q4.c program to 
+check the user input for validation.
