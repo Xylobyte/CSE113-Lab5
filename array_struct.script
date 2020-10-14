@@ -1,0 +1,17 @@
+Donovan Griego
+Lab 5
+10-13-2020
+
+Script started on 2020-10-13 21:15:54-06:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="191" LINES="14"]
+]0;dxgriego@Parallels: ~/cse113/lab5[01;32mdxgriego@Parallels[00m:[01;34m~/cse113/lab5[00m$ gcc -g -Wall array_struct.c -o array_struct
+]0;dxgriego@Parallels: ~/cse113/lab5[01;32mdxgriego@Parallels[00m:[01;34m~/cse113/lab5[00m$ ./array_struct 
+Minimum age: Subject: C  Age: 19  Height: 68
+Maximum age: Subject: A  Age: 23  Height: 74
+Minimum height: Subject: E  Age: 22  Height: 62
+Maximum height: Subject: D  Age: 20  Height: 76
+Average age: 21
+Average height: 68
+]0;dxgriego@Parallels: ~/cse113/lab5[01;32mdxgriego@Parallels[00m:[01;34m~/cse113/lab5[00m$ exit
+exit
+
+Script done on 2020-10-13 21:16:19-06:00 [COMMAND_EXIT_CODE="0"]

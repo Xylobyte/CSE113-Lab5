@@ -1,0 +1,20 @@
+When deciding between a structure and an array it is important 
+to know the use case for which it is needed. The array can only
+store one data type but the elements can be iterated through 
+using nothing but an integer as the index. The structure on the
+other hand can store multiple data types within it, but each 
+element must be reffered to by its variable name.
+
+An array can be used when a lot of a single data type needs to 
+be stored and sorted through. For example, a teacher storing 
+grades on a particular assignment. All of the scores use the 
+same data type (float). The teacher can use an array to sort 
+through the grades and find statistics such as the class average, 
+minimum, maximum, etc. while keeping the students anonymous.
+
+A structure can be used when multiple data types need to be 
+stored while also being stored together. For example, when 
+the grades for all assignments need to be stored for a 
+particular student. The structure can include the assignments, 
+student name, grades, etc. This solution provides scalability 
+as well since this structure can be replicated for each student.
