@@ -1,0 +1,15 @@
+Donovan Griego
+Lab 5
+10-13-2020
+
+Script started on 2020-10-13 23:11:27-06:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="191" LINES="14"]
+]0;dxgriego@Parallels: ~/cse113/lab5[01;32mdxgriego@Parallels[00m:[01;34m~/cse113/lab5[00m$ exitgcc -g -Wall -lm lab5_q3.c -o lab5_q3[1P[1P[1P[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C -lm
+]0;dxgriego@Parallels: ~/cse113/lab5[01;32mdxgriego@Parallels[00m:[01;34m~/cse113/lab5[00m$ gcc -g -Wall lab5_q3.c -o lab5_q3 -lm[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K./lab5_q3
+Enter the first point in the following format (#,#): (43,5)
+Enter the second point in the following format (#,#): (3,54  12)
+Distance via Euclidean: 40.607880
+Distance via Manhattan: 47.000000
+]0;dxgriego@Parallels: ~/cse113/lab5[01;32mdxgriego@Parallels[00m:[01;34m~/cse113/lab5[00m$ exit
+exit
+
+Script done on 2020-10-13 23:12:19-06:00 [COMMAND_EXIT_CODE="0"]
